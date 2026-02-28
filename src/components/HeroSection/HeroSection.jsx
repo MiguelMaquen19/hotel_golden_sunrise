@@ -10,7 +10,7 @@ const HeroSection = () => {
                 <span className="hero-subtitle">Bienvenido a su refugio andino</span>
                 <h1 className="hero-title">
                     Despierte con la magia de <br />
-                    <span className="text-gold">Machupicchu</span>
+                    <span className="text-gold">Golden Sunrise</span>
                 </h1>
                 <p className="hero-description">
                     Experimente la hospitalidad de lujo en Machu Picchu Pueblo,
