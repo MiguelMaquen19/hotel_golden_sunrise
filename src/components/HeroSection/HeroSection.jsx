@@ -13,7 +13,7 @@ const HeroSection = () => {
                     <span className="text-gold">Golden Sunrise</span>
                 </h1>
                 <p className="hero-description">
-                    Experimente la hospitalidad de lujo en Machu Picchu Pueblo,
+                    Experimente la hospitalidad de lujo en Golden Sunrise,
                     a solo pasos de una de las maravillas del mundo.
                 </p>
                 <div className="hero-buttons">
